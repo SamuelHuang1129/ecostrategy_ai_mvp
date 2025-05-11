@@ -1,0 +1,13 @@
+streamlit
+openai-whisper
+pandas
+sentence-transformers
+reportlab
+python-docx
+fuzzywuzzy
+python-Levenshtein
+docx2pdf>=0.1.8
+openai>=1.0.0
+streamlit>=1.40.0
+pandas
+jieba
